@@ -1,0 +1,10 @@
+# Gunny 9.2 Launcher Base .gitignore
+node_modules/
+dist/
+build/
+.cache/
+*.log
+*.tmp
+*.rar
+*.zip
+*.exe
